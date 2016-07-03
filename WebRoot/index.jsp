@@ -7,7 +7,7 @@
 <title>Insert title here</title>
 </head>
 <body>
-welcome to gitss
+welcome to git
 to update
 </body>
 </html>
